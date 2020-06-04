@@ -1,0 +1,4 @@
+## libraries used
+
+numpy:
+conda install numpy
