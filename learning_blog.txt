@@ -1,0 +1,7 @@
+Day 1 -- 2020/6/4
+installed Anaconda with Spyder
+installed libraries: numpy, scipy, matplotlib, scikit-learn, pandas. It has been a while since I last used Anaconda interface, kind of feeling new. I had been using miniconda with no GUI for long. 
+
+fast came across first challenge: installing theano. I've been using it once with "conda install theano" but it turned out not working. Had to use "pip install theano" back then. But now with anaconda GUI feels I have to use conda...
+
+launched spyder for first time and tested theano... it works well surprisingly...
